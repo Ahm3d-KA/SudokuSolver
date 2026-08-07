@@ -67,7 +67,7 @@ ax.set_yscale("log")  # Logarithmic scale so data is visible
 
 # Set labels
 ax.set_xlabel("Difficulty")
-ax.set_ylabel("Time elapsed - log scale")
+ax.set_ylabel("Time elapsed (microseconds) - log scale")
 ax.set_title("Sudoku solver time by difficulty")
 
 # Boxplot descriptions
