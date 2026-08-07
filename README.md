@@ -7,5 +7,5 @@ This project solves a bunch of sudoku puzzles using different algorithms benchma
 4. Run python graph.py
 5. Output.png is produced
 ## Acknowledgements
-Thank you to Collins, Adonis and Mannan for working on this project with me 
+Thank you to Collins, Adonis and Mannan for working on this project with me \
 We used https://github.com/TN1ck/super-sudoku to get a bunch of puzzles to benchmark
